@@ -197,7 +197,7 @@ header label{
 .newsletter{
     text-align: center;
     padding:5rem 1rem;
-    background:url(../images/subscribe-bg.png) no-repeat;
+    background:var(--gradient);
     background-size: cover;
     background-position: center;
 }
@@ -430,7 +430,7 @@ header label{
 } 
 .footer{
     padding-top: 3rem;
-    background:url(../images/footer-bg.png) no-repeat;
+    background:var(--gradient);
     background-size: cover;
     background-position: center;
 }
